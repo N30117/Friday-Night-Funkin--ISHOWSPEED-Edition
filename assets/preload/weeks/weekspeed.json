@@ -1,0 +1,40 @@
+{
+	"storyName": "IshowSPeed",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "speed",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"shake",
+			"speed",
+			[
+				226,
+				13,
+				215
+			]
+		],
+		[
+			"F.U.C",
+			"speed",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "speed week"
+}
